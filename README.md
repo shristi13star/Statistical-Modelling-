@@ -60,6 +60,7 @@ The notebook includes:
 - Metrics: MAE, RMSE, Accuracy, AUC  
 
 ---
+###  Project Structure
 Statistical-Modelling-Project/
 │
 ├── README.md
@@ -92,5 +93,5 @@ notebook
     
 
 
-## 📁 Project Structure
+
 
